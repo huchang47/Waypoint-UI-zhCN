@@ -1,4 +1,4 @@
-## Interface: 120100, 120105
+## Interface: 16001
 ## Version: 1.7.2
 ## Title: Waypoint UI
 ## Notes: An in-world waypoint and pinpoint to show relevant information directly in world-space.
